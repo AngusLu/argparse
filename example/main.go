@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"git.trj.tw/golang/argparse"
+	"github.com/AngusLu/argparse"
 )
 
 func main() {

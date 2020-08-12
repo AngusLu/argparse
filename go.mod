@@ -1,3 +1,3 @@
-module git.trj.tw/golang/argparse
+module github.com/AngusLu/argparse
 
 go 1.13
